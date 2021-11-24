@@ -1,0 +1,7 @@
+#div1{
+    background: linear-gradient(to left , white ,#1a7bfa);
+    color: white;
+}
+#div2{
+    background: linear-gradient(to right, white , #1a7bfa)
+}
